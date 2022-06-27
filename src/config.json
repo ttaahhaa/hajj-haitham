@@ -1,0 +1,6 @@
+{
+    "HOST": "https://maedan.moi.gov.sa/HajjVehicleTracking",
+    "PORT": "7093",
+    "GOOGLE_MAP_KEY": "AIzaSyB8svgQcWzJ3GmPZl3lCZvzg4tmbF-qwAA",
+    "TIME_IN_SECONDS": 300
+}
